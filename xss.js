@@ -12,3 +12,4 @@ router.get('/greet-template', (req,res) => {
 })
 
 module.exports = router
+
